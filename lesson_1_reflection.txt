@@ -4,3 +4,5 @@ cause the bug was detected by observing where a version was differente than the 
 
 Why do you think some version control systems, like Git, allow saving multiple files in one 
 commit, while others, like Google Docs, treat each file separately?
+
+vamos la adicionar. ja adicionei.
