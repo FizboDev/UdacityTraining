@@ -8,3 +8,5 @@ commit, while others, like Google Docs, treat each file separately?
 vamos la adicionar. ja adicionei. agora com o commit feito.
 
 Para ser sincero isto é uma estupidez *side thought*
+
+está aqui a opção de ter um branch diferente
